@@ -1,0 +1,146 @@
+
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-black.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 900;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-blackitalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 900;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-bold.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 700;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-bolditalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 700;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-extrabold.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 800;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-extrabolditalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 800;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-extralight.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 200;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-extralightitalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 200;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-italic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-light.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 300;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-lightitalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 300;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-medium.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 500;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-mediumitalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 500;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-regular.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 400;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-semibold.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 600;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-semibolditalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 600;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-thin.ttf') format('truetype');
+     font-style:  normal;
+     font-weight: 100;
+     font-display: auto;
+}
+@font-face { 
+     font-family: 'exo';
+     src:    url('http://skola.zulutech.lv/wp-content/uploads/avia_fonts/type_fonts/exo/exo-thinitalic.ttf') format('truetype');
+     font-style:  italic;
+     font-weight: 100;
+     font-display: auto;
+}
+
+
+.editor-block-list__block,
+.editor-block-list__block p {background-color:#191919; color:#525252; font-size:15px;}
+.editor-block-list__block h1,
+.editor-block-list__block h2,
+.editor-block-list__block h3,
+.editor-block-list__block h4,
+.editor-block-list__block h5,
+.editor-block-list__block h6 {color:#3d3d3d;}
+.editor-post-title__block textarea {color:#ffffff; background-color:#111111;}
+.editor-block-list__block a,
+.editor-block-list__block strong,
+.editor-block-list__block b,
+.editor-block-list__block b a,
+.editor-block-list__block strong a {color:#a81010;}
+.editor-block-list__block .wp-block-heading,
+.editor-post-title__block textarea {font-family:'exo', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
+.editor-block-list__block {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Helvetica-Neue', Helvetica, Arial, sans-serif;}
